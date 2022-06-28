@@ -1,2 +1,11 @@
  HI THIS IS A SESSION ON GITHUB
  shashank raj
+
+ #include<stdio.h>
+ int main()
+ {
+ printf("this is c programming\n");
+ 
+ return 0;
+ }
+
