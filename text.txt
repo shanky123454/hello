@@ -4,4 +4,3 @@ this is ankit
 this is example of merge conflict
 this is dharwad
 hello 
-
