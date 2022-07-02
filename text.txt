@@ -9,4 +9,3 @@ chacha
 hira
 beta
 usman
-kutta
